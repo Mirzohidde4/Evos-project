@@ -1,0 +1,3 @@
+TOKEN = '7541086392:AAGq-Hyvkw2sLnGcQJLBVVlEJoeu3L_z3Z0'
+CHANEL_ID = ['channelforlikes']
+ADMIN_ID = 795303467
